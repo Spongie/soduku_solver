@@ -1,0 +1,8 @@
+[package]
+name = "soduku_solver"
+version = "0.1.0"
+authors = ["Philip Persson <philipp.dev@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+libmath = "0.2.1"
